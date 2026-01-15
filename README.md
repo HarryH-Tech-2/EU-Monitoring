@@ -1,6 +1,8 @@
-# MONITORING THE SITUATION
+# IS THE EU MONITORING THE SITUATION?
 
 A satirical single-page web application parodying bureaucratic monitoring culture. Built with React, TypeScript, Vite, and Tailwind CSS.
+
+**Live Site:** [istheeumonitoringthesituation.com](https://istheeumonitoringthesituation.com)
 
 ## Features
 
