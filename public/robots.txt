@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://istheeumonitoringthesituation.com/sitemap.xml
