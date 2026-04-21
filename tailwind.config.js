@@ -15,6 +15,7 @@ export default {
           amber: '#ffb347',
           red: '#ff4444',
           blue: '#00d4ff',
+          yellow: '#FFDD00',
         }
       },
       fontFamily: {
